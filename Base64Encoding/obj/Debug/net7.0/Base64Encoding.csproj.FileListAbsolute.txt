@@ -1,0 +1,15 @@
+C:\Users\PrincePiusOduro\RiderProjects\Base64Encoding\Base64Encoding\bin\Debug\net7.0\Base64Encoding.exe
+C:\Users\PrincePiusOduro\RiderProjects\Base64Encoding\Base64Encoding\bin\Debug\net7.0\Base64Encoding.deps.json
+C:\Users\PrincePiusOduro\RiderProjects\Base64Encoding\Base64Encoding\bin\Debug\net7.0\Base64Encoding.runtimeconfig.json
+C:\Users\PrincePiusOduro\RiderProjects\Base64Encoding\Base64Encoding\bin\Debug\net7.0\Base64Encoding.dll
+C:\Users\PrincePiusOduro\RiderProjects\Base64Encoding\Base64Encoding\bin\Debug\net7.0\Base64Encoding.pdb
+C:\Users\PrincePiusOduro\RiderProjects\Base64Encoding\Base64Encoding\obj\Debug\net7.0\Base64Encoding.csproj.AssemblyReference.cache
+C:\Users\PrincePiusOduro\RiderProjects\Base64Encoding\Base64Encoding\obj\Debug\net7.0\Base64Encoding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PrincePiusOduro\RiderProjects\Base64Encoding\Base64Encoding\obj\Debug\net7.0\Base64Encoding.AssemblyInfoInputs.cache
+C:\Users\PrincePiusOduro\RiderProjects\Base64Encoding\Base64Encoding\obj\Debug\net7.0\Base64Encoding.AssemblyInfo.cs
+C:\Users\PrincePiusOduro\RiderProjects\Base64Encoding\Base64Encoding\obj\Debug\net7.0\Base64Encoding.csproj.CoreCompileInputs.cache
+C:\Users\PrincePiusOduro\RiderProjects\Base64Encoding\Base64Encoding\obj\Debug\net7.0\Base64Encoding.dll
+C:\Users\PrincePiusOduro\RiderProjects\Base64Encoding\Base64Encoding\obj\Debug\net7.0\refint\Base64Encoding.dll
+C:\Users\PrincePiusOduro\RiderProjects\Base64Encoding\Base64Encoding\obj\Debug\net7.0\Base64Encoding.pdb
+C:\Users\PrincePiusOduro\RiderProjects\Base64Encoding\Base64Encoding\obj\Debug\net7.0\Base64Encoding.genruntimeconfig.cache
+C:\Users\PrincePiusOduro\RiderProjects\Base64Encoding\Base64Encoding\obj\Debug\net7.0\ref\Base64Encoding.dll
